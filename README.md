@@ -3,14 +3,9 @@
 ##### My favorite color is `#0969DA` and my favorite number is $`\sqrt{2}`$ (1.41421356237)
 # Projects
 My best program is **Coding Buddy**, which you can find in my **pinned** section
-I'm also working on a pygame **Never Gonna Give You Up** app.
+
+I'm also starting to work on a **touching grass** game.
 # Programming Languages
 The programming languages I've learned is:
-### Python, Powershell, HTML, CSS, Javascript and Scratch
+### Python, Powershell, HTML, CSS and Javascript.
 My first **actual** programming language is Python.
-# Do I like skibidi?
-```py
-print("I hate Gen Alpha")
-print("It's memes are so annoying and bad")
-print("iT MAKES ME DEPRESSED")
-```
